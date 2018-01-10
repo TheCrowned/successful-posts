@@ -1,0 +1,495 @@
+a:17:{i:0;O:7:"WP_Post":27:{s:2:"ID";i:49609;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2017-02-14 11:04:00";s:13:"post_date_gmt";s:19:"2017-02-14 10:04:00";s:12:"post_content";s:18926:"<blockquote>
+<p class="western" lang="en-GB">What follows is Javier Silva's interview to me. The interview is mostly focused on how what it is like to be a freelance in the IT field and how to start as a programmer (and how that may evolve into a business). It was first <a href="https://www.wpescuela.com/entrevista-al-creador-del-plugin-post-pay-counter/">published on his blog in Spanish</a>. He also did a <a href="https://www.wpescuela.com/plugin-post-pay-counter-multi-autor-wordpress/">small review of</a> my <a href="https://postpaycounter.com/">Post Pay Counter plugin</a>.</p>
+</blockquote>
+<h2 class="western" lang="en-GB">Please, Introduce yourself!</h2>
+<p class="western"><span lang="en-GB">I’m Stefano from Italy. I study mathematics, but there are very few things I am not interested into. I am a web developer, a walker, a reader, and an amateur photographer. Those are just the things that take most of my time, but don’t believe I don’t do anything else!</span></p>
+
+<h2 class="western" lang="en-GB">You work as web developer... where did you study it? or how did you learn it?</h2>
+<p class="western" lang="en-GB">I’ve never taken any classes on web developing or on any IT subject. I have just always been into computers and technology, and by reading/replying on forums, experimenting and lots of tutorials I have learnt all that I know. When I was 12, at school we were covering divisors, prime numbers, factorization, and the like, and… you know, homework was boring as hell! I was just tired of having to figure out whether a number was prime, or what its divisors were, so I wrote a little script that did it for me. That evolved in writing more complex software and slowly learning to write decent-quality code.</p>
+
+<blockquote>
+<p class="western" lang="en-GB">Homework was boring as hell! I was just tired of having to figure out whether a number was prime, or what its divisors were, so I wrote a little script that did it for me.</p>
+</blockquote>
+<p class="western"><span lang="en-GB">There are a lot of resources out there for people willing to learn. I believe the key is to play around and experiment. And, as always, a lot of practice is important.</span></p>
+
+<h2 class="western" lang="en-GB">What is your point of view about the “programming career”? Is it a competitive profession?</h2>
+<p class="western"><span lang="en-GB">I believe it definitely is. Unless you aim at working within your own city, meeting customers face to face, you really face a lot of competition. If I am hiring someone to develop something for me, and I don’t require they live in my same city, then I can pick anyone from all over the world. And good luck to convince me that you are the best developer, and that I really want </span><span lang="en-GB"><i>you</i></span><span lang="en-GB">.</span></p>
+<p class="western"><!--more--></p>
+<p class="western" lang="en-GB">In the end, freelancing (at least in programming) has a lot to do with cultivating relationships and caring for your customers, or they will just find someone else to do your work. However, if you do work well, the word will spread and you may thus earn more work. It is a fact that building your network takes time, though. It’s not like opening a shop and waiting until passers-by stop and get in, it’s completely different.</p>
+
+<h2 class="western" lang="en-GB">Let us know about your career... Are you a full-time freelance or do you have a current job?</h2>
+<p class="western" lang="en-GB">I am neither: I am a less-than-part-time freelance. As I said, I’m a student, and for that reason I tend to spend most of my time studying. Of course, that is what I should be doing, but it often happens that a critical bug needs to be addressed, or that I have a deadline for a paid project, or whatnot, and I put aside university for a while and care about my software developing and my customers.</p>
+
+<blockquote>
+<p class="western" lang="en-GB">Practical skills are only learnt through doing, and the sooner you start screwing things up the sooner you will get experienced enough.</p>
+</blockquote>
+<p class="western" lang="en-GB">As I said, building your network takes time (and with time, I mean years!). I do not believe it is wise to go through university without doing any work, and then expect that customers, good ideas and success will rain down the sky. Practical skills are only learnt through doing, and the sooner you start screwing things up (because you will, of course you will!), the sooner you will get experienced enough to at least avoid the worst mistakes.</p>
+
+<h2 class="western" lang="en-GB">And what do you think about Freelance?</h2>
+<p class="western"><span lang="en-GB">I believe it is very hard. For this time, let’s put aside the talks about discipline (although it is certainly important). The good thing about freelancing, obviously, is that you get all the money your customer will pay, as opposed to being employed. Money aside, the best thing about freelancing is the freedom. I can pick the projects I want to work on, and if you are a really bad customer, I can just turn you down and save me tons of anger and frustration.</span></p>
+<p class="western"><span lang="en-GB">However, you also get a harsh thing: you have to find your work by yourself. Nobody provides you stuff to work on which you will get paid regardless of its success. If you spend one year developing a product no-one wants… then you have lost a full year! Of course you may have learnt a lot from it, but it’s still a lot of wasted time, when it comes to money. </span></p>
+<p class="western"><span lang="en-GB">On the other hand, if you don’t sell any products but just develop software on demand, then it’s even harder to build your network and find your work. How are people supposed to know you exist and provide quality services if they are not linked to you in any way? I get several requests from people who would like me to develop their plugin or platform or whatever, and they all come from people who use </span><span lang="en-GB"><i>my</i></span><span lang="en-GB"> plugins, either free or paid ones. The usually say: “We really like your plugin and its quality, and we’d like you to build our own”, and it’s not difficult to believe that they wouldn’t even know I </span><span lang="en-GB"><i>existed</i></span><span lang="en-GB"> if they didn’t use my plugins.</span></p>
+
+<h2 class="western" lang="en-GB">You have some products (WordPress plugins) on sell by yourself. How is it going? Are they fulfilling your expectations?</h2>
+<p class="western"><span lang="en-GB"><a href="https://profiles.wordpress.org/ste_95/#content-plugins">My plugins</a> have all been free for a long time. Just a couple years ago, when I really put a lot of effort and time in re-writing from scratch the <a href="https://postpaycounter.com">Post Pay Counter</a> plugin, I believed the product was finally sound enough to be worth people’s money. Since it was my first paid product, I wasn’t really expecting anything, I was quite open. I was still in my last year of high school and I did not even thought about not going to university, so I did not feel the pressure of being successful with the product. I guess not feeling the stress of </span><span lang="en-GB"><i>having</i></span><span lang="en-GB"> to earn a salary certainly helps at the beginning: flunking will not be pleasing, but it will not be such a big deal. In my case, I was going through the routine go-to-university-then-find-a-job routine anyway.</span></p>
+<p class="western" lang="en-GB">Today, <a href="https://postpaycounter.com/addons">Post Pay Counter addons</a> provide me a consistent revenue, customers are satisfied and I can think about the next product I would like to build. So I guess it is going pretty well!</p>
+
+<h2 class="western" lang="en-GB">What is the best and worst part of developing a plugin?</h2>
+<p class="western" lang="en-GB">For me, the best is user feedback and reviews. Every time a user or a customer takes the time to publicly write an appreciation of my plugin, I am happy. I like that because it means I have done something useful and well done.</p>
+<p class="western" lang="en-GB">As for the worst, this is probably highly subjective, but for me it’s the marketing part. I am the only man behind all my plugins, including the website design and management, tutorials writing, and everything. Sometimes I just wish someone else would take care of the marketing part on my behalf.</p>
+
+<h2 class="western" lang="en-GB">What can you tell us about the plugin process development? Time, design, issues, etc?</h2>
+<p class="western"><span lang="en-GB">My personal experience is that developing the very first release of a plugin takes a lot of time, but really a lot. It may take several months before you have a decent product you can safely release publicly. Post Pay Counter took me almost a year. I did even release a beta version (and I had to look for beta testers) and of course there were lots of things that needed improvement, some that did not work at all, and some features users really felt the need for and were not in the plugin already. So it’s likely that when you think you are done, you are kind of halfway through actually.</span></p>
+
+<blockquote>
+<p class="western">If you just skip the whole process of designing your product, you are likely to get to a point where improving your product is not possible any more.</p>
+</blockquote>
+<p class="western" lang="en-GB">However, as with all digital products, this initial stage is crucial. If you just skip the whole process of designing your product, you are likely to get to a point where improving your product is not possible any more because the choices you made at the beginning were bad, or hurried.</p>
+<p class="western"><span lang="en-GB">I believe this is best understood with a real example. When Post Pay Counter was first released, it allowed you to pay authors with 4 different criteria (such as per word and per visit). Of course, adding more payment criteria was technically possible, but every time I wanted to do that, especially in a separate addon, it was a nightmare. I had to write a lot of code, most of which was just copied from other payment criteria (which is really a bad thing to do). It was very easy for me to forget about some little piece of code, or when a bug showed up in that code, I had to fix it several times, one for each addon. When I decided it was too much, I had to re-write the whole part that handles payment criteria in the plugin, which took me around a month, and I then had to update all addons with the changes. Developing an addon now takes me way less time, but I would have saved even a lot more time had I been more careful in the first place.</span></p>
+<p class="western"><span lang="en-GB">However, once you have a plugin that works fine, your work is nearly done. Of course you will have to spend some time fixing bugs, or implementing new features, but in terms of time this does not even compare with the first development process. Providing support to users is likely to be the most time-consuming thing, but I can tell you the very steep path is developing the first release, then it’s all downhill. </span></p>
+
+<h2 class="western" lang="en-GB">The truth about the myth! Can you live doing plugins, themes or support?</h2>
+<p class="western"><span lang="en-GB">I do believe so. There are several people doing that, with quite some success. I am thinking about Pippin Williamson, for example. However, the competition is so fierce out there, that is not easy to be noticed and have success. It requires the right product at the right time, and even then it will take a couple years before your product become renown. Most people who develop plugins also do consulting jobs and customization, which is another good source of income.</span></p>
+
+<h2 class="western" lang="en-GB">What usually clients say or request to you?</h2>
+<p class="western"><span lang="en-GB">They usually tell me they have a brilliant idea for a plugin, or for a specific feature to be added to my plugins, which is surely going to be helpful to other people. Most often it is just something very specific for their own setup, that probably nobody else would benefit from. I guess they just hope I would do a paid work for free. It is just like going to IKEA, seeing a piece of furniture that is kind of what you need but not exactly, and tell the salesman if they could just make it more like this and that, surely a lot more people would buy it. Of course, sometimes the idea is a good one, but most of the time you would just reply “go and pay a carpenter”.</span></p>
+<p class="western"><span lang="en-GB">Fortunately, I do also get the same requests from people who are human and reasonable enough to offer to pay for my time and services.</span></p>
+
+<h2 class="western" lang="en-GB">You maybe know about Marketplaces... What do you think about this new way of commerce?</h2>
+<p class="western" lang="en-GB">I guess it’s a way for customers to know they have their back covered. If you purchase a plugin from a private website, and it was a scam, then you are 99% to have lost your money. But if you purchase on CodeCanyon and I don’t reply to emails, then you can tell CodeCanyon about it, and they will probably refund you.</p>
+
+<h2 class="western" lang="en-GB">Are you involved in any marketplace?</h2>
+<p class="western"><span lang="en-GB">No, not for now at least. CodeCanyon is the only worthy marketplace for paid WordPress plugins, but they take at least around 25% of your income, which I believe is just so unfair! I understand they are putting in the brand and allowing me an exposure I wouldn’t gain otherwise, but that’s not equivalent to a forth of my work!</span></p>
+
+<h2 class="western" lang="en-GB">How do you see the future of marketplaces? (We know the Wordpress Plugin Repository is a kind of Marketplace and you are there).</h2>
+<p class="western"><span lang="en-GB">It is clear to me that every successful platform of the latest years has been such thanks to its marketplace. Look at Android, iOS, WordPress… even Linux, to an extent. On the other hand, Windows Phone doesn’t have a flourishing app store, and what’s its market share? </span></p>
+<p class="western" lang="en-GB">If we consider marketplaces even free ones, then it looks clear to me that any platform wanting to have success should care about having an active and huge one.</p>
+
+<h2 class="western" lang="en-GB">Any advice for new guys trying to get into the Web Developer World?</h2>
+<p class="western"><span lang="en-GB">Start early. And it does not mean that you should already be working at 18 and stop caring about everything else you like, hell no! Take all the time you want, study whatever interests you, even if it’s not developing-related, but commit to little projects here and there whenever you can. This is sure to repay you in the future.</span></p>
+<p class="western" lang="en-GB">You will make mistakes, nobody does not. But, you know, if you make them when you are 15, who cares? But then, at 22 you will not make the same mistakes (hopefully), and there will be much more at stake at that age (the success of your product and whether you get fired or not, maybe!)</p>
+
+<h2 class="western" lang="en-GB">Thats enough about profession... let know us the person behind!
+What do you do in your free-time?</h2>
+<p class="western"><span lang="en-GB">I really like walking. On sunny sundays I often go hiking somewhere. And then I read, I read a lot (both fiction and essays).</span></p>
+
+<h2 class="western" lang="en-GB">What hobbies do you like to practice?</h2>
+<p class="western" lang="en-GB">I play table tennis and practice yoga. I do also love light and try to capture it through photography.</p>
+
+<h2 class="western" lang="en-GB">A book? and why…</h2>
+<p class="western"><span lang="en-GB">This is always the toughest question… I’d say Surely you’re joking, Mr. Feynman, by Richard Feynman. Nowadays, very few people really understand what science is about, and what a scientist really is: Feynman is the best person to show us (spoiler: being a scientist is not about knowing scientific facts).</span></p>
+
+<h2 class="western" lang="en-GB">A movie? and why…</h2>
+<p class="western" lang="en-GB">Harvey is probably the best non-popular movie I can recommend. We should never impose our beliefs unto other people, and there is no warranty that our beliefs are better than other people’s ones. If you look carefully, Harvey will teach you that. Apply that in your life, and I believe all your relationships will improve.</p>
+
+<blockquote>
+<p class="western" lang="en-GB">You don’t have to prove anything to anyone. Just do what you believe is good, and always be open to questions.</p>
+</blockquote>
+<h2 class="western" lang="en-GB">A song? and why…</h2>
+<p class="western" lang="en-GB">Eclipse, by Pink Floyd. It may already be well known, but both the music and the lyrics are perfect in a way I have never yet found again.</p>
+
+<h2 class="western" lang="en-GB">A country would you like to visit?</h2>
+<p class="western" lang="en-GB">Sweden, or any of the Scandinavian ones. I’d also really like to go to Australia and to the poles, one day.</p>
+
+<h2 class="western" lang="en-GB">A person would you like to meet? and a question would you like to ask…</h2>
+<p class="western" lang="en-GB">Shaun Tan. I would never have the courage, but I’d ask him if he wanted to draw my children stories.</p>
+
+<h2 class="western" lang="en-GB">What cartoon or superhero would you like to be in a parallel world?</h2>
+<p class="western" lang="en-GB">Iron Man, because I could ask Jarvis stuff.</p>
+
+<h2 class="western" lang="en-GB">A dream?</h2>
+<p class="western" lang="en-GB">That my small Italian not-for-profit which helps kids explore and learn about science in a fun and entertaining way would become my full-time future.</p>
+
+<h2 class="western" lang="en-GB">A memory you will never forget?</h2>
+<p class="western"><span lang="en-GB">I was helping a little kid building some sort of origami. When we started out, he didn’t want to tell me his name, nor would he reply to questions or remarks. He was like mute. He had his own toy-bulldozer and wouldn’t let it go. After he finished building his origami, he still wouldn’t talk nor tell me his name or let go of his bulldozer, hell no! But he accepted to give me a high-five, which really made my day. </span></p>
+
+<h2 class="western" lang="en-GB">Finally, do you want say something else... regards, a message or phrase!</h2>
+<p class="western" lang="en-GB">You don’t have to prove anything to anyone. Just do what you believe is good, and always be open to questions.</p>";s:10:"post_title";s:62:"Tips and advice on being a freelance in Information Technology";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:54:"tips-and-advice-being-freelance-information-technology";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-02-14 11:04:22";s:17:"post_modified_gmt";s:19:"2017-02-14 10:04:22";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:34:"http://www.thecrowned.org/?p=49609";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:1;i:1;d:0;}s:9:"post_tags";a:1:{i:0;s:9:"interview";}s:15:"post_categories";a:1:{i:0;s:9:"interview";}}i:1;O:7:"WP_Post":27:{s:2:"ID";i:49603;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2017-01-23 22:04:04";s:13:"post_date_gmt";s:19:"2017-01-23 21:04:04";s:12:"post_content";s:678:"With the Anspress theme/plugin, using the WordPress native function url_to_postid() on a question permalink returns the page ID of the base page. For example,
+<pre class="lang:default decode:true ">url_to_postid( "www.website.com/questions/question/this-is-the-question");</pre>
+would return the page ID of the <em>/questions</em> page.
+
+To get the WP question ID of <em>this-is-the-question</em>, use the following:
+<pre class="lang:default decode:true ">get_page_by_path( "/this-is-the-question", "ARRAY_A", get_post_types() );</pre>
+(using <em>get_post_types()</em> instead of <em>'questions'</em> allows the call to work even with permalinks of non-question contents.)";s:10:"post_title";s:58:"WordPress function url_to_postid not working with Anspress";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:58:"wordpress-function-url_to_postid-not-working-with-anspress";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-01-23 22:05:01";s:17:"post_modified_gmt";s:19:"2017-01-23 21:05:01";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:34:"http://www.thecrowned.org/?p=49603";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"2";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:8;i:1;d:0.00120399999999999999210353873735357410623691976070404052734375;}s:9:"post_tags";a:1:{i:0;s:14:"wordpress tips";}s:15:"post_categories";a:2:{i:0;s:14:"wordpress tips";i:1;s:14:"wordpress tips";}}i:2;O:7:"WP_Post":27:{s:2:"ID";i:49536;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-02-15 07:28:24";s:13:"post_date_gmt";s:19:"2016-02-15 06:28:24";s:12:"post_content";s:2012:"This add-on plugin for bbPress will allow anonymous users to subscribe to topics and get email notifications when a new reply is posted. The notification email includes an unsubscribe link.
+
+bbPress notifications will keep to go out to registered users, this plugin only extends the thing to anonymous posters as well!
+<h1 style="text-align: center;"><a href="https://downloads.wordpress.org/plugin/bbp-anonymous-subscriptions.latest-stable.zip">Download (it's free!)</a></h1>
+<a href="http://www.thecrowned.org/wp-content/uploads/2016/02/bbpress-anonymous-subscriptions.png"><img class="aligncenter size-large wp-image-49622" src="http://www.thecrowned.org/wp-content/uploads/2016/02/bbpress-anonymous-subscriptions-1024x766.png" alt="bbPress - Anonymous Subscriptions" width="584" height="437" /></a>
+<h2>A case example with &gt;100% subscription rate</h2>
+This is vital for support forums, for example. On <a href="https://postpaycounter.com">Post Pay Counter</a> support forums, I did not want customers to sign-up: I wanted them to be able to request support in a matter of minutes, without any hassle. I liked the idea of "enter your name and email and you're done!" But I also felt like they needed to be notified when someone replied to help. It was not compulsory, of course, but I would have wanted it as a customer.
+
+<!--more-->
+
+Now, after a year from bbPress - Anonymous Subscriptions release, we have seen a <strong>139% subscription rate</strong>! On a total of 117 topics posted since the plugin started working, we have had 163 subscriptions to topics. However, it often happened that more than one user subscribed to a topic. On average, we had <strong>1.7 users subscribed per topic</strong>.
+
+How is it possible that we registered a &gt;100% subscription rate? Because <strong>users also subscribed to older topics</strong>!
+
+I would never go back without having this plugin on a support forum, or anyway on a public forum in which most posts are from anonymous users.
+
+&nbsp;";s:10:"post_title";s:33:"bbPress - Anonymous Subscriptions";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:31:"bbpress-anonymous-subscriptions";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-04-01 09:16:56";s:17:"post_modified_gmt";s:19:"2017-04-01 08:16:56";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:34:"http://www.thecrowned.org/?p=49536";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"2";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:4;i:1;d:0;}s:9:"post_tags";a:1:{i:0;s:16:"wordpress plugin";}s:15:"post_categories";a:2:{i:0;s:16:"wordpress plugin";i:1;s:16:"wordpress plugin";}}i:3;O:7:"WP_Post":27:{s:2:"ID";i:49456;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-01-11 12:05:21";s:13:"post_date_gmt";s:19:"2016-01-11 11:05:21";s:12:"post_content";s:6001:"On December 2016 I purchased the <strong><a href="https://system76.com/laptops/lemur" target="_blank" rel="nofollow">System76 6th gen Lemur</a></strong>. These are more of impressions than a real review, but may be helpful if you're interested in buying a new laptop and were considering the new System76 Lemur. This is the review of the laptop released in December 2015. I purchased the version with <strong>Intel Core 6th gen i3 6100U, 8GB DDR3 and 256 GB SSD</strong>.
+
+<!--more-->
+<blockquote><strong>NOTE to European people</strong>: I've just discovered the British <a href="http://pcspecialist.co.uk">PC Specialist</a> does a similar service with very little shipping costs to Europe. My girlfriend purchased basically the very same laptop I have, but costed $350 less in shipping!</blockquote>
+<h2>THINGS I DON'T LIKE ABOUT SYSTEM76 LEMUR</h2>
+<blockquote>August 2016 update: <strong>my screen turned to a shade of pink</strong>. All of a sudden, while working, colors flickered and it's just as if a pink filter is in front of it now. Some times it flickers back to white, but most of the time it's pinkish. Of course System76 offered to fix the issue for free, but it would have costed me at least $400 in shipping, so clearly this was not an option.</blockquote>
+<ul>
+ 	<li><a href="http://www.thecrowned.org/wp-content/uploads/2016/01/Lemur_feature4.png" rel="attachment wp-att-49463"><img class="wp-image-49463 size-medium alignright" src="http://www.thecrowned.org/wp-content/uploads/2016/01/Lemur_feature4-e1451740982457-300x175.png" alt="Lemur_feature4" width="300" height="175" /></a>The screen has a <strong>poor opening angle</strong> (I'd say around 120 degrees). This is not a problem if you put it on a desk with a proper chair, but as soon as you put it on your lap or if you are higher than your table, you'd immediately like the screen to open some more.</li>
+ 	<li>The SD card reader <strong>doesn't work with Sandisk Extreme</strong> 90MB/s or even 60 MB/s. System76 said these are extremely new and high speed cards, but this is not a justification to me as my 10-years-old card reader handles them just fine.</li>
+ 	<li><strong>Build quality is cheap</strong>. It's all bendy plastic. I've got light scratches everywhere, and some deep ones. Just laying copybooks on my laptop shouldn't make deep scratches.</li>
+ 	<li><strong>Screen brightness is too high</strong>, even at its minima. In normally (and even poor) lit environments this is fine, but when you are in the dark you have the feeling a lamp is being pointed at you.</li>
+ 	<li><strong>Volume is still a bit low</strong>, even at its maxima. This may be due to the fact that speakers are located under the laptop.</li>
+</ul>
+<h2>REASONS WHY I'D PURCHASE THE SYSTEM76 LEMUR AGAIN</h2>
+<blockquote>I still stand behind everything I had written below, but given the screen fault and other shortcomings, and that PC Specialist is offering such a discounted service (at least to me, in Europe), I'd buy from them rather than from System76.</blockquote>
+It's great. It just works. Beautifully. It's reliable, and quiet. And when I say quiet, I really mean that I've heard the fan start going a couple of times in 6 months.
+
+I've been asked several times why I didn't purchase a <em>normal</em> laptop from a <em>normal</em> company. There are two reasons:
+<ol>
+ 	<li><strong>Normal companies don't make laptop for normal people</strong>.</li>
+ 	<li><strong>Normal laptop</strong> from normal companies <strong>are not built to last</strong>.</li>
+</ol>
+It's quite clear to me that the laptops you find in a shop are built so that 4 years later you will need to buy a new one. Just look at the average configuration of a decent laptop (which would be around $500): Intel i5 CPU, 4 GB RAM, 1 TB HDD, some dedicated graphics card. Now, how much of that my mother needs? Little nothing, and it's lacking what she'd really need.
+<ol>
+ 	<li>Graphics card are completely useless to the average user. Highest graphical need is the Windows GUI, why waste $80+ on something needless?</li>
+ 	<li>Intel i5 CPU - right, okay, it's gonna be fast, but how much does it need to be fast a laptop to surf the internet and watch a film?</li>
+ 	<li>1 TB HDD? My whole film collection takes less than that. Like, really. Put in a SSD of 256 GB and stop this fuss of having bigger drives.</li>
+ 	<li>4 GB RAM is fine. But it's <em>just</em> fine. Ubuntu with Chrome (5 tabs) open takes 1,7 GB. My mother has Windows, an antivirus, dropbox, 15 tabs open, and generally forgets to close anything she opens. Now suppose she has 3 GB busy. Just let the next Windows come out and it won't fit on her machine, and voilà: you need a new laptop.</li>
+ 	<li>If you look for a higher-end laptop, they'll put in an Intel i7. What on earth is my mother supposed to do with a 4-core 3 GHz? It would just drain the battery in an hour! Oh yes, I forgot to say, My <strong>new Lemur's battery lasts five damn hours</strong>!</li>
+</ol>
+The wonderful thing with <strong>System76</strong> is that it <strong>gives you the choice</strong> of the PC you want to have: you start with a basic setup and you can tweak it to fit your needs. They're <strong>providing a service to users</strong>, not just requesting them money. Plus, it <strong>costs around the same</strong> amount as a normal computer from a normal company, so why not? (I spent a hell lot of money to get it to my house, but I'm not from the USA) Not to mention the <strong>quality support and availability of the System76 team</strong>, something which you wouldn't get from a normal company, not even in a million years.
+
+System76 does good work for little the right money and probably reduces technology waste over time. I think it's <strong>our responsability as tech guys to feed this kind of companies</strong> instead of careless giants.
+
+Are you considering buying a System76 Lemur? Or, if you own one, what has been your experience like?";s:10:"post_title";s:51:"New System76 Lemur 2016 review (6th gen Intel core)";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:44:"new-system76-lemur-6th-gen-intel-core-review";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-12-07 17:44:22";s:17:"post_modified_gmt";s:19:"2016-12-07 16:44:22";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:34:"http://www.thecrowned.org/?p=49456";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"5";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:8;i:1;d:0;}s:9:"post_tags";a:1:{i:0;s:6:"review";}s:15:"post_categories";a:1:{i:0;s:6:"review";}}i:4;O:7:"WP_Post":27:{s:2:"ID";i:49186;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2015-11-14 08:28:48";s:13:"post_date_gmt";s:19:"2015-11-14 07:28:48";s:12:"post_content";s:1366:"Current Pengu-ins made plugins are:
+<ul>
+	<li><a title="Post Pay Counter: WordPress payment manager" href="http://www.thecrowned.org/wordpress-plugins/post-pay-counter" target="_blank"><strong>Post Pay Counter</strong></a></li>
+	<li><a title="Post Pay Counter PRO – Enhance your payment manager" href="http://www.thecrowned.org/post-pay-counter-pro" target="_blank"><strong>Post Pay Counter PRO</strong></a></li>
+	<li><strong><a href="http://www.thecrowned.org/facebook-pay-per-social-interactions-shares-likes-and-comments" target="_blank">Facebook</a></strong></li>
+	<li><a title="Publisher bonus: an editor rewarding system" href="http://www.thecrowned.org/publisher-bonus-editor-rewarding-system" target="_blank"><strong>Publisher bonus</strong></a></li>
+	<li><strong><a href="http://www.thecrowned.org/stop-words-exclude-certain-words" target="_blank">Stopwords</a></strong></li>
+	<li><a title="Posts To Do List: share and keep track of writing ideas" href="http://www.thecrowned.org/wordpress-plugins/posts-to-do-list" target="_blank"><strong>Posts To Do List</strong></a></li>
+	<li><strong><a href="http://www.thecrowned.org/smart-tag-insert" target="_blank">Smart Tag Insert</a></strong></li>
+	<li><strong><a title="Rel Nofollow" href="http://www.thecrowned.org/wordpress-plugins/rel-nofollow" target="_blank">Rel Nofollow</a></strong></li>
+</ul>";s:10:"post_title";s:17:"WordPress plugins";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:19:"wordpress-plugins-2";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-11-14 08:28:48";s:17:"post_modified_gmt";s:19:"2015-11-14 07:28:48";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:40:"http://www.thecrowned.org/?page_id=49186";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:2;i:1;d:0;}s:9:"post_tags";a:0:{}s:15:"post_categories";a:0:{}}i:5;O:7:"WP_Post":27:{s:2:"ID";i:46184;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2015-09-14 12:33:44";s:13:"post_date_gmt";s:19:"2015-09-14 10:33:44";s:12:"post_content";s:1095:"<a href="http://www.thecrowned.org/wp-content/uploads/2015/09/banner-772x250.png"><img class="aligncenter size-full wp-image-46185" src="http://www.thecrowned.org/wp-content/uploads/2015/09/banner-772x250.png" alt="banner-772x250" width="772" height="250" data-wp-pid="46185" /></a>
+<blockquote>Automatically adds most relevant tags to posts selecting them from an admin-defined list.</blockquote>
+Once you have defined a list of tags, this plugin will add a box in the post editing page through which look for relevant tags basing on the post content. The most relevant will automatically be selected (although the selection can be changed), and selected tags can be added to the post with a click.
+
+<!--more-->
+
+It is also possible to use the plugin to reassign all blog's posts tags through a handy posts tags rebuilder
+<h1><a href="https://downloads.wordpress.org/plugin/smart-tag-insert.1.0.zip"><strong>Download (free) Smart Tag Insert</strong></a></h1>
+<h1></h1>
+<h1><strong>Smart Tag Insert Screenshots (clic to enlarge):</strong></h1>
+[gallery link="file" ids="46187,46186"]";s:10:"post_title";s:51:"Smart Tag Insert: automatic WordPress posts tagging";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:16:"smart-tag-insert";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-11-14 08:15:42";s:17:"post_modified_gmt";s:19:"2015-11-14 07:15:42";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:40:"http://www.thecrowned.org/?page_id=46184";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:1;i:1;d:0;}s:9:"post_tags";a:1:{i:0;s:16:"wordpress plugin";}s:15:"post_categories";a:0:{}}i:6;O:7:"WP_Post":27:{s:2:"ID";i:22069;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2014-11-10 16:07:16";s:13:"post_date_gmt";s:19:"2014-11-10 14:07:16";s:12:"post_content";s:3152:"<em>We support wonder towards the world. We encourage questions and questioning with the goal of raising consciousness. We value understanding, deep, thorough and enthusiastic understanding of the surrounding. We love people with different opinions - as long as they have a true and motivated opinion on something. We value people and their stories, how they are and how come they are so, we value people not as numbers but as people. We believe we are here for a limited amount of time, in which we should do what we can, improve what we can, and pass the ball on, the goal being making better the life of everybody.</em>
+
+Pengu-ins is a self-created and self-sufficient WordPress plugin-development house. We are a team of more than zero people and less than two: there's exactly one person working, maintaining and supporting the plugins, and it's a person who laughs at his own jokes, something of which he's not even embarrassed of. Which is embarrassing. He has such a talent for names that he conceived the name Pengu-ins as the combination of his beloved penguins and plug-ins. We are in need of help, as you can see. Me and all the imaginary mes.<img class="alignright wp-image-22073" style="border: none;" src="http://www.thecrowned.org/wp-content/uploads/2014/11/pengu-ins1-e1415628504169.png" alt="Pengu-ins logo" width="215" height="172" />
+
+Current Pengu-ins made plugins are:
+<ul>
+ 	<li><a title="Post Pay Counter: WordPress payment manager" href="http://www.thecrowned.org/wordpress-plugins/post-pay-counter" target="_blank"><strong>Post Pay Counter</strong></a></li>
+ 	<li><a title="Post Pay Counter PRO – Enhance your payment manager" href="http://www.thecrowned.org/post-pay-counter-pro" target="_blank"><strong>Post Pay Counter PRO</strong></a></li>
+ 	<li><strong><a href="http://www.thecrowned.org/facebook-pay-per-social-interactions-shares-likes-and-comments" target="_blank">Facebook</a></strong></li>
+ 	<li><a title="Publisher bonus: an editor rewarding system" href="http://www.thecrowned.org/publisher-bonus-editor-rewarding-system" target="_blank"><strong>Publisher bonus</strong></a></li>
+ 	<li><strong><a href="http://www.thecrowned.org/stop-words-exclude-certain-words" target="_blank">Stopwords</a></strong></li>
+ 	<li><a title="Posts To Do List: share and keep track of writing ideas" href="http://www.thecrowned.org/wordpress-plugins/posts-to-do-list" target="_blank"><strong>Posts To Do List</strong></a></li>
+ 	<li><strong><a href="http://www.thecrowned.org/smart-tag-insert" target="_blank">Smart Tag Insert</a></strong></li>
+ 	<li><strong><a title="Rel Nofollow" href="http://www.thecrowned.org/wordpress-plugins/rel-nofollow" target="_blank">Rel Nofollow</a></strong></li>
+</ul>
+We started off with only Post Pay Counter, which underwent several name changes over the years (apparently, people find excruciatingly hard the current name to write correctly, so I'm sticking with it just as a challenge for the world), and when it reached a technical level we didn't have to fear other developers would look into its code and curse us, we released the first paid addon to it - Post Pay Counter PRO.";s:10:"post_title";s:36:"Pengu-ins - Making WordPress plugins";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:9:"pengu-ins";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-11-22 15:50:29";s:17:"post_modified_gmt";s:19:"2016-11-22 14:50:29";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:40:"http://www.thecrowned.org/?page_id=22069";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:1;i:1;d:0;}s:9:"post_tags";a:0:{}s:15:"post_categories";a:0:{}}i:7;O:7:"WP_Post":27:{s:2:"ID";i:1207;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2014-05-18 15:59:56";s:13:"post_date_gmt";s:19:"2014-05-18 13:59:56";s:12:"post_content";s:5613:"<p style="text-align: justify;"><em>From 12th to 17th May I took part to the International Public Speaking Competition (IPSC) 2014 in London, representing my country, Italy. The topic was <strong>Imagination is more important than knowledge</strong>, and the title of my speech, which follows, was <strong>The largest dancing floor</strong>. The video of the italian version is <a title="La più grande pista da ballo - IPSC" href="https://www.youtube.com/watch?v=mNKlkwdChh0" target="_blank">available on YouTube</a> or at the bottom here.</em></p>
+
+<h1 style="text-align: justify;">THE LARGEST DANCING FLOOR (Italian candidate speech)</h1>
+<p style="text-align: justify;">What I propose today is a journey. A journey with our imagination, through physics, to disclose a picture of the world far more appreciable than the one we usually have.</p>
+<p style="text-align: justify;">Have you ever thought about how fake the reality we see is? Looking around us, we see all kinds of different things. And yet, it looks to me that we give for granted the most basic assumption, which is that these things exist as we see them. I mean, we see a penguin and we think that yeah, that’s the classic example of the capital-P Penguin, of the “<em>penguiness</em>”. But where is this “penguiness” to be seen? Can we think of it? Can we say it is real?</p>
+<p style="text-align: justify;"><!--more--></p>
+<p style="text-align: justify;">Wondering at what is real and what is not means digging really deep into philosophy, which would probably lead us nowhere, but if we stick to physics… what do we get? We do get something interesting indeed. Physics tells us that all things, ranging from stars to sn<img class="alignright wp-image-1210" src="http://www.thecrowned.org/wp-content/uploads/2014/05/10330341_10152163570733576_8255782982304475793_n.jpg" alt="IPSC 2014" width="344" height="344" />ails, are all made of the same stuff, which is atoms, little balls that we, as limited beings, are not allowed to see. These balls arrange one beside the other for tremendous lengths and give rise to our beloved penguins. Now, even though different atoms exist, they come in a finite number. What makes up all the infinity of beautiful things around us is the way atoms put together, the way they have metaphorical sex. Atoms are really nothing more than the alphabet of nature: with a set of finite items, countless combinations are possible. So the first lesson of our journey is that, sadly, penguins do not exist as penguins, but should be imagined as groups of atoms.</p>
+<p style="text-align: justify;">Perhaps, a more surprising fact is that atoms are mostly empty. What we call the nucleus in the atom, takes way less than 1% of it, all that is left is empty space, the space where electrons live. This means that what appears to us as rock solid, as completely full in some way, is actually almost completely empty. And this rises a number of super-intriguing questions among which: what does it mean to “<em>touch</em>”?</p>
+<p style="text-align: justify;">What touch is, has a very interesting explanation. We are used to seeing things touching each other, (which happens when the distance between two objects becomes null). But can something like this really happen? Actually, it can’t. It is not possible for two atoms to come in contact or be squeezed together. What happens is that electrons get very jealous of their homes around the nucleus: they have lived there all their lives and are not willing to give them up to foreigners. So when another atom comes near, electrons start fighting for their own space and prevent it from coming close. In this sense, electrons are very bad hosts. You can picture the clapping of your hands as a struggle between electrons, in which each of them fiercely defends its own space, and the more you push your hands together, the harder the combat gets.</p>
+<p style="text-align: justify;">These electron-fights are just one example of the bustle of nature, of the activity that goes on under the hood even though we cannot see it directly. What we can do, is imagine it. Think of a glass of water. It may appear like the most uninteresting, still and dull thing, so quiet it may not even be worth considering. But atoms are never still, they can never be. They are the guests of a never-ending worldwide party in which music never stops and they never get tired of dancing. They are always giggling and buzzing, and sometimes their dancing becomes so frenetic that they jump away from the dance floor and start floating in the air. This is what we call evaporating, and now <em>this</em> is a dull name for an exciting phenomenon.</p>
+<p style="text-align: justify;">Now, what’s the point? First, these things are fascinating to me. Every time I am feeling down or bored, I always wear my special imaginary glasses to look at reality the way I have described it, to remind myself how interesting and amazing our world is. But the point is that you can know all these facts, and yet look at the world as the darkest and dullest place ever. Most people who know these things do not look at the world as the largest dancing floor, in which a huge number of excited dancers move around making up the objects that we see, and that is because they are not using their imagination. Knowledge is helpful, indeed it is needed, for imagination to work. But facts alone are nothing, we need imagination to understand their meaning. The key to a happier, more interesting and fascinating world is imagination.</p>
+https://www.youtube.com/watch?v=mNKlkwdChh0";s:10:"post_title";s:55:"IPSC 2014: Imagination is more important than knowledge";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:41:"ipsc-2014-imagination-important-knowledge";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-04-01 09:07:42";s:17:"post_modified_gmt";s:19:"2017-04-01 08:07:42";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:33:"http://www.thecrowned.org/?p=1207";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:3;i:1;d:0.00019699999999999999087361979288601787629886530339717864990234375;}s:9:"post_tags";a:0:{}s:15:"post_categories";a:1:{i:0;s:16:"wordpress plugin";}}i:8;O:7:"WP_Post":27:{s:2:"ID";i:881;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2014-03-26 00:45:45";s:13:"post_date_gmt";s:19:"2014-03-25 22:45:45";s:12:"post_content";s:0:"";s:10:"post_title";s:12:"Rel Nofollow";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:12:"rel-nofollow";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-11-14 08:13:04";s:17:"post_modified_gmt";s:19:"2015-11-14 07:13:04";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:498;s:4:"guid";s:38:"http://www.thecrowned.org/?page_id=881";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"2";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:4;i:1;d:0.0031350000000000001997013665544500327087007462978363037109375;}s:9:"post_tags";a:1:{i:0;s:16:"wordpress plugin";}s:15:"post_categories";a:0:{}}i:9;O:7:"WP_Post":27:{s:2:"ID";i:415;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2013-08-12 17:24:37";s:13:"post_date_gmt";s:19:"2013-08-12 15:24:37";s:12:"post_content";s:3183:"The UK Department of Transports has banned Google Glass from driving since it could divert drivers' attention from the road. I guess it is better to use your hands to dial a number or text someone instead of telling your glasses to do so without getting your hands off the wheel, but whatever. Anyway, they have not banned something that does <em>not</em> distract drivers, they have banned a product that could <strong>dramatically increase safety on the road</strong>. I can think of two ways it would, but I am sure there are plenty more. Here my two ideas for Google Glass while driving:
+<!--more-->
+<ol>
+	<li><strong>Know how skilled the drivers around you are</strong>. Every driver would have a score based on their past actions. If they did not give way when they should have, their score would go down; if they passed with a red light, their score would go down... Every potentially harmful action they do is tracked down and recorded in some big database. While you are driving, Google Glass would then scan the license plates of the cars around and tell the driver how good the people around them are. Of course you cannot really rely on a good score to be sure some driver will not commit any mistakes, but at least you will keep away from the acknowledged bad ones, which would immediately result in fewer accidents. 
+
+Of course there a lot of details left out here, such as the difference between a car and the driver: a car can be driven by different people and it would not be fair to penalize someone because of someone else's actions, so a way to distinguish between drivers would be needed. Moreover, we need to punish those who do not stick to the highway code, but with time they should also be able to get a higher ranking if they do not make any more mistakes. I am sure the UK government would come up with a solution for both issues, if it used its time usefully instead of banning something they do not know. If the did not ban, like, <em>progress</em>.</li>
+<img src="http://www.thecrowned.org/wp-content/uploads/2013/08/glass_logo-300x199-1024x606.jpg" alt="Google Glass while driving" width="584" height="345" class="size-large wp-image-421" />
+	<li><strong>Know what awaits you behind a turn</strong>. This would need some work by the governments, but it would be something very appreciated by drivers, I am sure, especially by moto riders. Cameras, instead of mirrors, would be placed at turns, and Google Glass would show in your eye what the nearest camera can see, so that drivers would know what there is beside a turn. It would be impossible to have an accident just because there is a queue behind the turn, because you would know it beforehand. 
+
+Now, I get this takes money and work, <em>I am just imagining</em>. That is what you are supposed to do: you get a new technology, and you wonder: "<em>What awesome stuff could we do with this new thing?</em>" and you start thinking even about things which are not likely to be done because are expensive and time-consuming, but how else do you thing progress will come? Surely not by banning a new technology because you are afraid people may use it to browse their socials...</li>
+</ol>";s:10:"post_title";s:54:"How Google Glass could be used for good while driving ";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:34:"google-glass-used-for-good-driving";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-12-28 12:24:01";s:17:"post_modified_gmt";s:19:"2013-12-28 10:24:01";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:32:"http://www.thecrowned.org/?p=415";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:2;i:1;d:0;}s:9:"post_tags";a:2:{i:0;s:6:"google";i:1;s:12:"google glass";}s:15:"post_categories";a:1:{i:0;s:12:"google glass";}}i:10;O:7:"WP_Post":27:{s:2:"ID";i:331;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2013-02-20 14:42:51";s:13:"post_date_gmt";s:19:"2013-02-20 12:42:51";s:12:"post_content";s:17410:"There are two things I am currently working on:
+<ol>
+ 	<li>School</li>
+ 	<li>Integrating my <a title="Post Pay Counter PRO – The final WordPress payment manager" href="http://www.thecrowned.org/post-pay-counter-pro" target="_blank">Post Pay Counter</a> Wordpress plugin with PayPal, so that site administrators can pay their writers directly from their blog pages, without having to head to the PayPal website</li>
+</ol>
+Apparently, it turns out that you do not get to choose how much time you want to dedicate to the first point. That, matched with the fact that PayPal APIs are horrible and that the documentation is often useless, is making the whole process much longer than I thought. Meanwhile, I am sharing what I have come up with until now (which works pretty well, actually), scheduling a second part of the tutorial for when the job will be completed.
+<h1>PayPal Adaptive Payments: what it is for</h1>
+<blockquote>Adaptive payments handles payments between a <em>sender</em> of a payment and one or more <em>receivers</em> of the payment. You are an <em>application owner</em>, such as a merchant that owns a website, the owner of a widget on a social networking site, the provider of a payment application on mobile phones, and so on. Your application is the caller of Adaptive Payments API operations.</blockquote>
+Standing to what I have been able to discover about PayPal's different payment mechanisms over summer, Adaptive Payments represents the <strong>most flexible way</strong> to transfer funds from one account to another. Also, it seems the only method you can effectively integrate PayPal in your application. Adaptive Payments is in fact for those applications in which your account, as application developer, is not the one you are drawing funds from. <strong>Shortly, you need to move money on behalf of someone, and your application is the intermediary</strong>.
+
+<a href="http://www.thecrowned.org/wp-content/uploads/2012/10/AdapPymntRolesApp_B.gif"><img class="aligncenter size-full wp-image-334" title="AdapPymntRolesApp_B" src="http://www.thecrowned.org/wp-content/uploads/2012/10/AdapPymntRolesApp_B.gif" alt="" width="523" height="257" /></a>
+
+In my specific case, I needed a way to let administrators put their credentials into my plugin and have PayPal let me get money from their accounts and transfer it to their writers' ones. Adaptive Payments method was really suitable because <strong>it allows six transactions per each request</strong>, so that it is possible to send different amounts to several people with only one API request. As bottom line (which I did not need and did not care to dive into), it also allows <em>Chained Payments</em>, in which the primary receiver passes part of the payment to other receivers, splitting the original amount.
+
+<!--more-->
+
+We are almost beginning. Just let me give you the link to the complete, detailed, give-a-lot-for-granted <a title="Adaptive Payments documentation" href="https://cms.paypal.com/us/cgi-bin/?cmd=_render-content&amp;content_ID=developer/e_howto_api_APIntro" target="_blank">PayPal official documentation</a>. There is also a brilliant PHP class I have used (and that will be used in this tutorial) which is <a title="Angell EYE's PayPal Payments Pro PHP Class" href="http://www.angelleye.com/paypal-payments-pro-php-class/" target="_blank">Angell EYE's PayPal Payments Pro PHP Class</a>. Apart from Adaptive Payments, you can execute almost any API-related PHP task with that class.
+<h1>Application Workflow</h1>
+This is how the PayPal-related part of the application will work:
+<ol>
+ 	<li>A form will contain all the data we need to complete the transaction (i.e. amount(s) and receiver(s) address).</li>
+ 	<li>The transaction must then be prepared. When the submit button of the form is clicked, Javascript collects all the data and an AJAX request is issued to a PHP background page that takes them in and arranges the PayPal API request. <strong>PayPal will return a Pay Key</strong>, that our PHP page will return as result of the AJAX results. At this point we are still on the first page, nothing seems to have happened.</li>
+ 	<li>Having the PayPal Pay Key makes it possible to execute the transaction, finally. Thus, the user is shown the PayPal forms and confirmation stuff that let them complete the payment.</li>
+</ol>
+<a href="http://www.thecrowned.org/wp-content/uploads/2012/10/AdapPymntSrvcFlow_A.gif"><img class="aligncenter size-full wp-image-349" title="AdapPymntSrvcFlow_A" src="http://www.thecrowned.org/wp-content/uploads/2012/10/AdapPymntSrvcFlow_A.gif" alt="" width="526" height="507" /></a>
+<h1>Getting started with Adaptive Payments: the front-end</h1>
+The first thing we are going to set up is the front end. There are two ways you can have it:
+<ol>
+ 	<li><strong>In a new window</strong>. This is the simplest method, which you will get to work pretty easily. When the user clicks to execute the payment, a new window/tab is opened where the transaction is completed. User are then momentarily forced to leave your website, to which they will be automatically redirected when the payment is done.</li>
+ 	<li><strong>In a lightboxed iframe</strong>. Although this is a bit harder, it will make the user experience a lot better. Users never leave your website: the transaction happens on top of your page, while the content gets dark. This is what this tutorial walks you through.</li>
+</ol>
+First of all, we need two forms, either having its own submit button:
+<div>
+<pre class="lang:default decode:true ">&lt;form id="prepare_payment_form" action="#" method="post"&gt;
+   &lt;input id="prepare_payment" name="prepare_payment" type="submit" value="Prepare payment with PayPal" /&gt;
+&lt;/form&gt;
+&lt;form id="execute_payment_form" action="#" method="post" target="PPDGFrame"&gt;
+   &lt;input id="execute_payment" disabled="disabled" name="execute_payment" type="submit" value="Execute payment with PayPal" /&gt;
+&lt;/form&gt;</pre>
+</div>
+<div>Note the <em>target="PPDGFrame"</em> for the second form. The <em>execute_payment</em> submit button is disabled because we do not want users to execute the payment before they have actually prepared it. I have the preparation handled by AJAX, so that no reload is needed. I guess that if you are smart and masochist enough to be willing to deal with PayPal APIs and read this tutorial, you will also know how to Javascript-enable the execute_payment button and the like stuff (I am lazy enough not to provide you with that code, sorry).</div>
+You may also want to add somewhere a space for errors to be displayed, that will be invisible until some error comes up:
+<div id="paypal_error" style="display: none;"></div>
+The first form, apart from its submit button, will also contain the data needed to fulfill the PayPal request. I am really keeping this simple, putting two email addresses and two amounts directly as form data, but you can fetch your data the way you need (e.g. store in the form only the user ID and then pulling from some database the other data when the request will be prepared by PHP).
+<pre class="lang:default decode:true">&lt;form id="prepare_payment_form" action="#" method="post"&gt;
+   &lt;input name="payment_1" type="text" value="50" /&gt; 
+   &lt;input name="user_address_1" type="text" value="my_first_address@domain.com" /&gt;
+   &lt;input name="payment_2" type="text" value="25" /&gt; 
+   &lt;input name="user_address_2" type="text" value="my_second_address@domain.com" /&gt;
+   &lt;input id="prepare_payment" name="prepare_payment" type="submit" value="Prepare payment with PayPal" /&gt;
+&lt;/form&gt;</pre>
+Now, when the form is submitted, we will need to grab those data and send them to a secondary PHP page that will handle the whole thing.
+<pre class="lang:default decode:true">&lt;script type="text/javascript"&gt;// &lt;![CDATA[
+jQuery(document).ready(function($) {
+   $(“#prepare_payment”).unbind(‘click’).click(function(e) {
+   e.preventDefault();</pre>
+So, from Javascript to English, when the <em>prepare_payment</em> button is clicked (row 3), the default action is prevented, so that the form is not sent and we allow AJAX to take over (row 4). As for the unbinding and subsequent binding, I have no clue why this happens, but it prevents the event from firing multiple times.
+<pre class="">var data = {
+   action: ‘the_php_page_that_will_handle_the_request.php’,
+   payment_data: $(‘#prepare_payment_form’).serialize()
+};
+</pre>
+Quite easy: preparing the AJAX request data, which is actually simply a serialization of the form data. If you need more stuff, you can add more indexes to the array. You may also want to add a confirmation step, which is what I did:
+<pre>var agree = confirm(‘You are just about to ask the Post Pay Counter to prepare a PayPal payment on your behalf. Note that this will really take money from your account and into the selected writers ones\’. Please double check what you are doing, it is only your fault if something goes wrong.\n\nIf what you have done is fine, then you can go on with the payment. Just be patient during loading, please. In a couple of seconds the execute payment button will be clickable and you will be able to confirm this action. From this moment on you can not modify the payment selection, but if you reload the page before clicking the execute payment button, nothing will be done.’);
+
+if (!agree)
+return false;
+</pre>
+From the moment the payment is being prepared on the related button can not be clicked anymore. Moreover, to prevent changes to the form, all the text inputs are disabled:
+<pre>$(‘#prepare_payment’).attr(“disabled”, “true”);
+jQuery(“#prepare_payment_form :text”).each(function() {
+   jQuery(this).attr(“disabled”, “true”);
+});
+</pre>
+Then we finally fire the AJAX request to get the Pay Key:
+<pre>$.post(ajaxurl, data, function(response) {
+
+   if(response.indexOf(“Error: “) != -1) {
+      $(“#paypal_error”).css(“display”, “block”);
+      $(“#paypal_error”).html(response);
+      $(‘#prepare_payment’).removeAttr(“disabled”);
+      jQuery(“#prepare_payment_form :text”).each(function() {
+         jQuery(this).removeAttr(“disabled”);
+      });
+      return false;
+   }
+
+   //Initialize PayPal embedded payment flow. Not loading it on document ready so that we only have it if user prepares payment, not just loads the page…
+   var dgFlow = new PAYPAL.apps.DGFlow({trigger: ‘execute_payment’});
+
+   //Store PayKey in the form action and enable execute payment button
+   $(“#execute_payment_form”).attr(“action”, “https://www.sandbox.paypal.com/webapps/adaptivepayment/flow/pay?expType=light&amp;payKey=” + response);
+   $(‘#execute_payment’).removeAttr(“disabled”);
+});
+</pre>
+Inside the AJAX request, the first block is for error handling: if something bad happens the form button and inputs are clickable and editable again and the error is shown in the proper div.
+
+If the request is successful, The PayPal flow is initialized, using as trigger parameter the HTML ID of the submit button of the second form, the execute_payment one.
+Finally, the action of the execute payment form is updated with the PayPal URL and the Pay Key received as results of the AJAX request, and the submit button is enabled, so that the payment can be executed. (When that will happen, PayPal libraries will take over and do the job).
+
+There is one more thing to add to the document.ready of the page:
+<pre>jQuery(document).ready(function($) {
+   if (window != top) {
+      top.location.replace(document.location);
+   }
+</pre>
+This will ensure that when/if the transaction is over, either because the user canceled it or because it was complete, the iframe gets closed automatically. I have not found a better way to handle this, so if you Javascript guys have some better ways, I do really long to get rid of that crappy redirect.
+<h1>Getting started with PayPal Adaptive Payments: the back-end</h1>
+That was the front-end. Not let's focus on the PHP page to which the AJAX request is issued.
+<pre class="lang:default decode:true">&lt;?php
+include( 'angell_eye_class_dir/Pay.php' );
+
+//Payment data is passed via AJAX serialized. We explode them by &amp; (dividing fields from each other) and then for each of them we explode again, this time by = (separating fields names and fields values). I know it looks awful, but it is not that hard...
+$receivers          = array();
+$payment_data       = array();
+$payment_data_temp  = explode( '&amp;', $_POST['payment_data'] );
+        
+foreach( $payment_data_temp as $single ) {
+   $yet_another_temp   = explode( '=', $single );
+   $userid             = substr( $yet_another_temp[0], -1 );
+            
+   $receivers[] = array(
+      'Amount'           =&gt; $single['payment'.$userid], 					  // Required.  Amount to be paid to the receiver.
+      'Email'            =&gt; $single['user_address'.$userid], 					  // Receiver's email address. 127 char max.
+      'InvoiceID'        =&gt; '', 								  // The invoice number for the payment.  127 char max.
+      'PaymentType'      =&gt; 'PERSONAL', 							  // Transaction type.  Values are:  GOODS, SERVICE, PERSONAL, CASHADVANCE, DIGITALGOODS
+      'PaymentSubType'   =&gt; '', 								  // The transaction subtype for the payment.
+      'Phone'            =&gt; array('CountryCode' =&gt; '', 'PhoneNumber' =&gt; '', 'Extension' =&gt; ''),   // Receiver's phone number.   Numbers only.
+      'Primary'          =&gt; ''								          // Whether this receiver is the primary receiver.  Values are boolean:  TRUE, FALSE
+   );
+}
+
+$paypal_result = execute_payment( TRUE, $paypal_API_email, $paypal_API_password, $paypal_API_signature, $paypal_currency_code, 'SENDER', $receivers, $_POST['current_page'] );
+        
+if( $paypal_result['Ack'] == 'Failure' )
+   die( 'Error: '.$paypal_result['Errors'][0]['Message'] );
+
+die($paypal_result['PayKey']);
+?&gt;</pre>
+An array containing all the payment receivers (up to 6) is created, required fields are only <em>Amount</em>, <em>Email</em> and <em>PaymentType</em>. At this point, the only thing missing is the execute_payment function, which has the following parameters:
+<ul>
+ 	<li>Whether you want to work in the PayPal sandbox for testing (TRUE) or not (FALSE);</li>
+ 	<li>The PayPal API email address of the account <strong>you are drawing funds from</strong>. For example, in my plugin it is the PayPal API email of the blog administrator;</li>
+ 	<li>The PayPal API password of the account you are drawing funds from;</li>
+ 	<li>The PayPal API signature of the account you are drawing funds from;</li>
+ 	<li>The code for the currency you want to use for payments, as <em>EUR, USD, GBP</em>...</li>
+ 	<li>Who will pay for PayPal fees, <em>SENDER</em> or <em>RECEIVER</em>;</li>
+ 	<li>The page you want the user to be redirected when the Adaptive Payment will be done (or canceled).</li>
+</ul>
+That function consists in a customized version of the Angel EYE's class Pay.php file as follows (I am stripping it of all the inline comments):
+<pre class="lang:default decode:true ">&lt;?php 
+include_once('paypal.class.php'); 
+
+function execute_payment( $sandbox, $api_username, $api_password, $api_signature, $currency, $fees_payer, $receivers, $return_page ) { 
+
+// Create PayPal object. 
+$PayPalConfig = array( 
+   'Sandbox' =&gt; $sandbox, 
+   'DeveloperAccountEmail' =&gt; '', 
+   'ApplicationID' =&gt; 
+   'APP-80W284485P519543T', 
+   'DeviceID' =&gt; '', 
+   'IPAddress' =&gt; $_SERVER['REMOTE_ADDR'], 
+   'APIUsername' =&gt; $api_username, 
+   'APIPassword' =&gt; $api_password, 
+   'APISignature' =&gt; $api_signature, 
+   'APISubject' =&gt; '' 
+); 
+
+$PayPal = new PayPal_Adaptive($PayPalConfig); 
+
+// Prepare request arrays 
+$PayRequestFields = array( 
+   'ActionType' =&gt; 'CREATE', 
+   'CancelURL' =&gt; $return_page, 
+   'CurrencyCode' =&gt; $currency, 
+   'FeesPayer' =&gt; $fees_payer, 
+   'IPNNotificationURL' =&gt; '', 
+   'Memo' =&gt; '', 
+   'Pin' =&gt; '', 
+   'PreapprovalKey' =&gt; '', 
+   'ReturnURL' =&gt; $current_page, 
+   'ReverseAllParallelPaymentsOnError' =&gt; '', 
+   'SenderEmail' =&gt; '', 
+   'TrackingID' =&gt; '' 
+); 
+
+$ClientDetailsFields = array( 
+   'CustomerID' =&gt; '', 
+   'CustomerType' =&gt; '', 
+   'GeoLocation' =&gt; '', 
+   'Model' =&gt; '', 
+   'PartnerName' =&gt; 'Always Give Back' 
+); 
+
+$FundingTypes = array('ECHECK', 'BALANCE', 'CREDITCARD'); 
+$SenderIdentifierFields = array( 'UseCredentials' =&gt; '' ); 
+$AccountIdentifierFields = array( 
+   'Email' =&gt; '', 
+   'Phone' =&gt; array('CountryCode' =&gt; '', 'PhoneNumber' =&gt; '', 'Extension' =&gt; '') 
+); 
+
+$PayPalRequestData = array( 'PayRequestFields' =&gt; $PayRequestFields, 'ClientDetailsFields' =&gt; $ClientDetailsFields, 'FundingTypes' =&gt; $FundingTypes, 'Receivers' =&gt; $receivers, 'SenderIdentifierFields' =&gt; $SenderIdentifierFields, 'AccountIdentifierFields' =&gt; $AccountIdentifierFields ); 
+$PayPalResult = $PayPal-&gt;Pay($PayPalRequestData); 
+
+return $PayPalResult; 
+} 
+?&gt;
+</pre>
+It will probably need some tweaking on your part, but I have hopefully explained how the hell PayPal Adaptive Payments are supposed to work!";s:10:"post_title";s:67:"Tutorial: Use PayPal Adaptive Payments API (with Embedded Lightbox)";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:46:"tutorial-paypal-adaptive-payments-api-embedded";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-12-07 18:12:06";s:17:"post_modified_gmt";s:19:"2016-12-07 17:12:06";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:32:"http://www.thecrowned.org/?p=331";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:2:"26";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:136;i:1;d:0.0306950000000000000621724893790087662637233734130859375;}s:9:"post_tags";a:5:{i:0;s:3:"api";i:1;s:6:"coding";i:2;s:8:"internet";i:3;s:6:"paypal";i:4;s:3:"php";}s:15:"post_categories";a:3:{i:0;s:3:"php";i:1;s:3:"php";i:2;s:3:"php";}}i:11;O:7:"WP_Post":27:{s:2:"ID";i:319;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2012-09-10 17:47:46";s:13:"post_date_gmt";s:19:"2012-09-10 15:47:46";s:12:"post_content";s:2209:"I worked for several blogs and websites. In most of them, we often felt the need to share hints and ideas about future posts, about what each of us stumbled upon while surfing. Unfortunately, there was not a great way to fulfill that need, and we often told each other via email, or emailed the admin who would in turn forward to all the writers. That is the reason why I wanted to build a Wordpress tool that could simplify this sharing process.
+
+<strong>That Wordpress tool is a plugin and is called Posts To Do List. </strong>
+
+<!--more-->
+
+<strong>By a convenient box in the posts editing page, everyone will be able to share the posts they think are worth writing</strong>. You have this little box, where you put the URL of the page where you read that great post, and the plugin will fetch the title by itself. You will then be able to change the retrieved title, suggest a keyword and add other notes, set a priority and assign the post to some user of the blog. And if you want to leave everything blank but the title field, leaving a suggestion that anyone can catch and deepen... well, you can!
+
+You, as the administrator, want everything in the power of your hands? No problem, you can decide what user roles can add new posts to the to do list and what user roles can delete already added items. You want your users to stick to the post you assigned to them? You can hide the posts you have assigned to other users from their view. From a simple stats page it will be immediately clear how many posts you have already assigned and how many of them are still to do, so that it will be easy to understand how much your writers have done and how many posts you have still to assign. Almost every action is powered by AJAX, so that no page reloads are needed and you do not even notice it is happening, it just works. What do you want more? Cause we even have cookies!
+<h1 style="text-align: center;"><a title="Posts To Do List" href="http://wordpress.org/extend/plugins/posts-to-do-list/" target="_blank">Download Posts To Do List</a></h1>
+<p style="text-align: center;"><strong>Post Pay Counter Screenshots (clic to enlarge):</strong></p>
+[gallery link="file" ids="325,323,324,322,321"]";s:10:"post_title";s:45:"Posts To-Do List: keep track of writing ideas";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:33:"wordpress-plugin-posts-to-do-list";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-12-08 19:08:49";s:17:"post_modified_gmt";s:19:"2016-12-08 18:08:49";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:32:"http://www.thecrowned.org/?p=319";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:2:"30";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:2;i:1;d:0;}s:9:"post_tags";a:2:{i:0;s:3:"php";i:1;s:9:"wordpress";}s:15:"post_categories";a:2:{i:0;s:9:"wordpress";i:1;s:9:"wordpress";}}i:12;O:7:"WP_Post":27:{s:2:"ID";i:270;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2012-03-22 08:00:29";s:13:"post_date_gmt";s:19:"2012-03-22 07:00:29";s:12:"post_content";s:3262:"Yesterday it was my birthday.
+
+My family phoned me or just met me. Then there has been a handful of people who texted me on my mobile, mostly in the morning. I do not care how they remembered my birthday's date, what I care about is that they took the time and the money (for those who paid) to text me. I am not ashamed to admit I use myself both Facebook and my mobile phone agenda to keep track of birthdays, apart from certain ones that are quite stuck in my head. But what I liked is that those people, the ones who texted me, tried to think of something nice to write and they actually came up with something sweet, something you would fancy reading after waking up. Those were the people closer to me. Some of them even told me that it was Facebook that remembered them it was my birthday, but they actually sent me an SMS and did not use Facebook to write me.
+
+<!--more-->
+
+<a href="http://www.thecrowned.org/wp-content/uploads/2012/03/happy-birthday.jpg"><img class=" wp-image-275 alignright" title="happy-birthday" src="http://www.thecrowned.org/wp-content/uploads/2012/03/happy-birthday.jpg" alt="" width="258" height="241" /></a>
+
+Next there was the Facebook world. Usually, who is friends with me on Facebook also has my phone number, so they could have easily sent me a message with their greetings, or wrote me an email as some did indeed. A lot of people, instead, wrote on my Facebook wall for my birthday. There were schoolmates of 5 years or so ago, people from my middle school and even guys who are still with me at school and that, although they met me in the morning at school (either in class or through the corridors), wrote on Facebook instead of just telling me "Happy birthday" face to face. Strangely enough, the people who wished me a happy birthday by voice wrote it on Facebook too. There were even people I never met with whom I am only friend in a virtual manner, the people I usually see once a year at the seaside and do not really spend time with, people I knew in afternoon classes years ago with whom I did not actually have any real relationship.
+
+You know, I do not really question their wishes, there is nothing bad in wishes as long as they are true and sincere. There were some people from whom I was glad to receive wishes, people whose messages contained my name and even some sort of joke that could kind of show we were friends, that we shared something. But that was a minority, the vast majority simply wrote "Happy birthday". Nothing more. Something a stranger could have easily said. And that is the point: if we are not much more that strangers I do not expect you to wish me happy birthday, it is something you are not supposed to do and for which I will not blame you.
+
+I have already talked about how <a href="http://www.thecrowned.org/how-facebook-is-killing-real-relationships" target="_blank">Facebook is killing real relationiships</a>, and if you wanted a proof here it is. It is ok if you use Facebook just to keep track of your friends' birthdays, what is not fine is to use it to wish them happy birthday when you could use other, more intimate means like walking to him, texting him or writing some kind of email or private chat.
+
+Do you like being wished happy birthday on Facebook?";s:10:"post_title";s:43:"Have I told you we should abolish Facebook?";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:42:"have-i-told-you-we-should-abolish-facebook";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-01-02 11:41:09";s:17:"post_modified_gmt";s:19:"2016-01-02 10:41:09";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:32:"http://www.thecrowned.org/?p=270";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"3";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:2;i:1;d:0;}s:9:"post_tags";a:2:{i:0;s:8:"facebook";i:1;s:7:"opinion";}s:15:"post_categories";a:1:{i:0;s:7:"opinion";}}i:13;O:7:"WP_Post":27:{s:2:"ID";i:210;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2011-11-18 18:57:54";s:13:"post_date_gmt";s:19:"2011-11-18 16:57:54";s:12:"post_content";s:1002:"I have been unable to watch YouTube videos for a couple of months. There were some people on the Google Forums reporting the same problem, also posting screenshots, but no one seemed to be able to fix it.
+
+Finally, checking with despair my Chrome Dev Tools, I found the problem! In my rush to block ads and avoid the slowing down produced by all the requests to external domains, I ended up redirecting <em>s.ytimg.com</em> to my own PC. Sadly, it seems YouTube is taking some CSSes and other stuff from there, reason why I was unable to watch any video and load the home page with a decent view.
+
+<!--more-->
+
+<a href="http://www.thecrowned.org/wp-content/uploads/2011/11/Immagine.png"><img class="aligncenter size-full wp-image-211" title="Immagine" src="http://www.thecrowned.org/wp-content/uploads/2011/11/Immagine.png" alt="" width="442" height="113" /></a>
+
+Simply get rid of that row in your hosts file (or wherever you may have blocked it), save, and you are done!
+
+Simpler than this!";s:10:"post_title";s:49:"When YouTube pages load with no CSS: how to solve";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:43:"youtube-pages-load-with-no-css-how-to-solve";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-08-26 08:50:16";s:17:"post_modified_gmt";s:19:"2017-08-26 07:50:16";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:32:"http://www.thecrowned.org/?p=210";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:2:"10";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:25;i:1;d:0.00126800000000000002986499936241671093739569187164306640625;}s:9:"post_tags";a:2:{i:0;s:4:"tips";i:1;s:7:"youtube";}s:15:"post_categories";a:1:{i:0;s:7:"youtube";}}i:14;O:7:"WP_Post":27:{s:2:"ID";i:162;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2011-10-11 22:39:48";s:13:"post_date_gmt";s:19:"2011-10-11 20:39:48";s:12:"post_content";s:7479:"I've always had strong opinions about the Facebook phenomenon and all that virtual social stuff, I have always said they are ruining our life and actually destroying our real social interactions. Today I think that's true more than ever, and I will tell you why.
+
+My opinion is that Facebook is <strong>something to pop up at 9 in the evening</strong>, when after a 14 hours day you are too tired to do anything else. You open it and just start <strong>lurking around</strong> new friends embarassing photos (like grils' bikini ones), laughing at childish status updates and links and browsing your groups recent activities. At least, that is how I use that damn website, <strong>pub<img class="size-full wp-image-174 alignright" title="modern_media_illustration" src="http://www.thecrowned.org/wp-content/uploads/2011/10/modern_media_illustration.jpg" alt="" width="350" height="350" />lishing hironyc and nonsense content without really telling people nothing serious about myself</strong>. Quotes are the farthest thing I do. Instead, <strong>people use to put there all their lives</strong> - their interests, hobbys, wants, likes and dislikes and, most important, friends interactions. We've all seen that "John is engaged with Melissa" with around 15 likes under it and as many comments saying "man enjoy it" or "sis I'm so happy about that!". Few people actually realize <strong>they are losing the real social interaction that piece of news may have generated</strong>. Remember the old style way - just to wait to really meet the people you care about and tell them orally or, better, organize an appointment?
+
+<!--more-->
+
+A lot of people <strong>just use Facebook as a replacement for real life while</strong>, at the very same time, <strong>considering it a different reality</strong>. I know it sounds weird, but that is really how it appears to me. It is definitely kind of odd considering a different reality something they spend 1-2 hours a day on, yet being the place where they get in touch with their friends. My fellows do not seem to understand that every tiny piece of information, the tiniest indeed, they put on Facebook (being it a status update, link, photo or whatever) is somehting that mirrors their personality. Therefore, it may mean <strong>there may be people who can form an idea on how a person is just looking at their Facebook profile</strong>. Sadly, it is this way. And it is shuddering. If you listen to certain music you are more likely to be a certain type of person, and it is the same for the poses you take in photos, the kind of links you share, whether you share your sentimental status or not, how often you engage and break up... <strong>Literally everything on Facebook mirrors the writer</strong>. Not good. It is dangerous not to acknowledge and remember this. Unfortunately, I come to be into that really small group of few people who can join all these information together. That is the reason why <strong>I stopped asking and accepting Facebook friendships from people I do not know well enough and who I plan to know thoroughly in person</strong>. This is because <strong>saying yes to a Facebook friendship request is saying no to a real relationship</strong>.
+
+Guys, the pleasure of friendship is <strong>to know the people you spend time with, not having virtual interactions with them</strong>. Think about this: it is much more likely you will have a deep conversation with someone on a Facebook chat than in person. This has always happened and probably will happen forever. Wanna advice? Avoid that. Even though Facebook make people show involuntarily their characters, it also reveals the essence of them. <strong>People chatting with you will be themselves in such a way that they won't</strong>. When you have the possibility to write instead of speak, you have all the time you may need to think about what to say, and you rarely end up saying the same things as speaking. <strong>Does that reveal the essence of a person? Yes. Is that the person you would know in public? No</strong>. So <strong>you start knowing a person that virtually does not exist</strong>. You may get a crush for that nonexistent person (and tell them your love in a chat) or even hate that person. I am afraid of saying that in the web half measures rarely exist. Also remember that writing hides facial expressions and gestures, so that half of the communication is lost. If you are smart enough to look at your speaker's eyes when in person, you can not deny that the look is part of the conversation.
+
+<img class="size-full wp-image-179 alignleft" title="Facebook Relationships" src="http://www.thecrowned.org/wp-content/uploads/2011/10/Facebook-Relationships.jpg" alt="" width="320" height="233" />
+
+<strong>Having too much information</strong> in bulk about a person through its Facebook profile <strong>may actually make people go away</strong>. Have you ever thought that? Let's put this to real life, shall we? Say you are a boy who likes rock music, wears Converse All Star, watches horror films and reads historical books. You have met a girl, a pretty one, who, after a first talk, you regard as interesting. You wanna now her better. What would you do - What is the dreadfully wrong thing you would do? Open Facebook, of course. And there, in her profile, you learn she likes pop music, wears boots, watch love films and reads thrillers. <strong>Would you still think she is worth knowing?</strong> I guess no. And yet, that could be the girl of your life! Maybe, knowing her piece by piece, as time passed by, you may have loved her.
+
+This year, in high school, my class was joined with another one of the same year just because we were two courses of about 14 people, too few... Now that we are together,<strong>we just can not get in touch</strong>. Since the first day there is one class sitting on the left part of the room, and the other one staying on the right. We seldom interact (though with some exceptions) and even when doing PE we do not really know how to cope with each other. The first day I thought we would get on well, it was just a matter of time before we knew and liked. But now, for how things are turning out, I am not that sure about it anymore. After about a month of school I noticed all the guys in my class are friends on Facebook, even between the once two different courses. But hey, that is weird, <strong>they have never spoken with each other</strong>, nor that I know at least! They surely have not gone beyond the polite "hello" or "what's for tomorrow?". But <strong>yet they are friends online</strong>. I can not get it, maybe I am missing something, but I really can not get it. I mean, what is the purpose of this all? <strong>I fear those people will never know really</strong>.
+
+Facebook is a very large and interesting topic, and I will probably write about it again. It is a fantastic platform when it is up to communication, but nothing more. Communicating is what Facebook is good for. <strong>Forgetting this means leaving real life behind and giving Facebook a primary role</strong> even though it should not be this way. Some people prefer to declare themselves (as I did until an year ago) against Facebook, saying they will never sign-up. I think this is as bad as using it all day because it kind of cuts you out.<strong>There is nothing terrible on being on Facebook, there are only a few things to remember.</strong>";s:10:"post_title";s:42:"How Facebook is killing real relationships";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:42:"how-facebook-is-killing-real-relationships";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-08-26 08:50:26";s:17:"post_modified_gmt";s:19:"2017-08-26 07:50:26";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:32:"http://www.thecrowned.org/?p=162";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"4";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:13;i:1;d:0.0034160000000000001994793219495250014006160199642181396484375;}s:9:"post_tags";a:2:{i:0;s:8:"facebook";i:1;s:15:"social networks";}s:15:"post_categories";a:1:{i:0;s:15:"social networks";}}i:15;O:7:"WP_Post":27:{s:2:"ID";i:100;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2011-09-03 14:53:28";s:13:"post_date_gmt";s:19:"2011-09-03 12:53:28";s:12:"post_content";s:2929:"Hi everybody, <em>[everybody stand up]</em> I'm Stefano from Genoa, Italy. Pleased to meet you <em>[handshake]</em>, I'm a 22-year-old guy currently in love with everything that's tech and who first got in touch with computers when was about 6. <a href="http://www.thecrowned.org/wp-content/uploads/2011/09/c71a58a2ef3f419895016447b1782836.jpeg" rel="attachment wp-att-49552"><img class="size-full wp-image-49552 alignright" src="http://www.thecrowned.org/wp-content/uploads/2011/09/c71a58a2ef3f419895016447b1782836.jpeg" alt="c71a58a2ef3f419895016447b1782836" width="200" height="200" /></a>
+
+I wrote IT tutorials for years on <a href="http://www.megalab.it/utenti/ste_95" rel="nofollow">MegaLab.it</a>, which was among the most important IT websites at that time; when I left, I had more than 800 articles published in a variety of fields. I also worked for smaller blogs like <a href="http://ideageek.it/" rel="nofollow">IdeaGeek</a>, and other minor ones. I've been involved in web related projects like <a href="http://sourceforge.net/projects/theuploader/" rel="nofollow">The Uploader</a>, and coded several <a href="http://www.thecrowned.org/pengu-ins" target="_blank" rel="noopener">Pengu-ins Wordpress plugins</a>, among which a freemium one (Post Pay Counter) that is the embodiment of my lack of marketing skills.
+
+I took photography classes and I fell in love with light (<a href="https://www.flickr.com/photos/ste_95/" target="_blank" rel="noopener">Flickr</a>). I also like blablaing on my <a href="https://www.youtube.com/channel/UCcXS7Jp2V3c3qGydi7k2G4A" rel="nofollow">YouTube channel</a> about books and cultural topics. In 2014, I represented Italy at the <a href="https://www.esu.org/our-work/international-public-speaking-competition" rel="nofollow">International Public Speaking Competition</a> in London. I love reading, hiking and just going around. I like finding good solutions to interesting problems.
+
+In September 2014 I started studying mathematics at the university of Genoa.
+
+In October 2015 I founded <a href="http://www.ilpiacerediscoprire.it/" target="_blank" rel="noopener">Il Piacere di Scoprire</a>, a not-for-profit to help kids discover the world through science experiments in a fun, concrete and intuitive way. We go around doing workshops with kids and also provide online material for teachers and everybody.
+
+In 2016 I started <a href="http://quickmathintuitions.org/" rel="nofollow">Quick Math Intuitions</a>, where I share my personal intuitions of math topics that occurred to me while studying/struggling to understand something.
+
+I graduated in mathematics in September 2017 with a thesis about the Hilbert curve and its application in turning an image into a sequence of sounds (see <a href="https://www.youtube.com/watch?v=3s7h2MHQtxc" rel="nofollow">3blue1brown</a>). I am now enrolled in a MSc in Computer Science.
+
+I think it's all for now, see ya!";s:10:"post_title";s:8:"About me";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:8:"about-me";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-10-16 08:24:49";s:17:"post_modified_gmt";s:19:"2017-10-16 07:24:49";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:38:"http://www.thecrowned.org/?page_id=100";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:4;i:1;d:0.00154999999999999994552968285432825723546557128429412841796875;}s:9:"post_tags";a:0:{}s:15:"post_categories";a:0:{}}i:16;O:7:"WP_Post":27:{s:2:"ID";i:36;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2011-08-15 17:50:14";s:13:"post_date_gmt";s:19:"2011-08-15 15:50:14";s:12:"post_content";s:242:"<strong>Do not use this form to ask for support for Post Pay Counter, PRO version and its addons, I WILL NOT REPLY. There is <a href="http://postpaycounter.com/forums/">an official forum</a> for that.</strong>
+
+[contact-form 1 "Contact me"]";s:10:"post_title";s:11:"Contact me!";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:10:"contact-me";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-08-18 20:31:32";s:17:"post_modified_gmt";s:19:"2016-08-18 19:31:32";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:45:"http://jmuletto.no-ip.biz:90/test/?page_id=36";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"8";s:6:"filter";s:3:"raw";s:10:"sp_metrics";a:2:{i:0;i:8;i:1;d:0.0005029999999999999749089596434714621864259243011474609375;}s:9:"post_tags";a:0:{}s:15:"post_categories";a:0:{}}}
