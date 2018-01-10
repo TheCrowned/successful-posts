@@ -29,4 +29,4 @@ where
 
 An example is `Stefano Ottolenghi&#039;s Wordpress__1453028153-1450436153__0.txt`
 
-which would contain the first (_0_th) chunk of data coming from the website _Stefano Ottolenghi&#039;s Wordpress_ about the time range _2016/01/17 - 2015/12/18_.
+which would contain the first (_0_-th) chunk of data coming from the website _Stefano Ottolenghi&#039;s Wordpress_ about the time range _2016/01/17 - 2015/12/18_.
